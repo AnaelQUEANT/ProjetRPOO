@@ -7,7 +7,7 @@ public class Larve extends Etat {
 	
 	@Override
 	public Etat next() {
-		if(val == 10) {
+		if(val > 10) {
 			return new Nymphe();
 		}
 		val++;
