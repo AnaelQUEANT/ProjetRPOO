@@ -9,7 +9,7 @@ public class Terrain {
 		this.fourmiliere = new Fourmiliere();
 	}
 	
-	void step() {
-		fourmiliere.step();
+	void step(int nbJour) {
+		fourmiliere.step(nbJour);
 	}
 }

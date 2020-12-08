@@ -6,45 +6,37 @@ import java.io.UnsupportedEncodingException;
 
 public class Simulateur {
 	static Terrain terrain;
+	static PrintWriter writer;
 
-	public static void main(String args[]) throws InterruptedException {
+	public static void main(String args[])
+			throws InterruptedException, FileNotFoundException, UnsupportedEncodingException {
 		terrain = new Terrain();
+		writer = new PrintWriter("fichierLog.txt", "UTF-8");
 		mainLoop();
+		writer.close();
 	}
 
 	static void mainLoop() throws InterruptedException {
 		int nbJour = 0;
-		while (true) {
-			terrain.step();
-			terrain.fourmiliere.ponte();
+		while (nbJour < 30 || terrain.fourmiliere.getPrefourmi()[2] != 0) {
+			terrain.step(nbJour);
 			nbJour++;
-			System.out.println("Jour " + nbJour + " : ");
-			System.out.print("Pourcentage adulte : Ouvriere : " + terrain.fourmiliere.getPourcentageRole()[0] + "%");
-			System.out.print(" | Soldat : " + terrain.fourmiliere.getPourcentageRole()[1] + "%");
-			System.out.println(" | Sexue : " + terrain.fourmiliere.getPourcentageRole()[2] + "%");
 			fichierLog(nbJour);
 			Thread.sleep(100);
 		}
 	}
 
 	static void fichierLog(int nbJour) {
-		try {
-			PrintWriter writer = new PrintWriter("fichierLog.txt", "UTF-8");
-			writer.println("Nombre de jour déroulé : " + nbJour);
-			writer.println("Nombre d'individu :");
-			writer.println("Nombre d'oeuf : ");
-			writer.println("Nombre de larve : ");
-			writer.println("Nombre de nymphe : ");
-			writer.println("Nombre d'adulte  : ");
-			writer.println("Nombre d'ouvrière : ");
-			writer.println("Nombre de soldat : ");
-			writer.println("Nombre de sexué : ");
-			writer.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (UnsupportedEncodingException e) {
-			e.printStackTrace();
-		}
+		writer.println("Nombre de jour déroulé : " + nbJour);
+		writer.println("Nombre d'individu : " + terrain.fourmiliere.getNombreIndividus());
+		writer.println("Nombre d'oeuf : " + terrain.fourmiliere.getPrefourmi()[0]);
+		writer.println("Nombre de larve : " + terrain.fourmiliere.getPrefourmi()[1]);
+		writer.println("Nombre de nymphe : " + terrain.fourmiliere.getPrefourmi()[2]);
+		writer.println("Nombre d'adulte  : " + terrain.fourmiliere.getNombreAdulte());
+		writer.println("Nombre d'ouvrière : " + terrain.fourmiliere.getNombreRole()[0]);
+		writer.println("Nombre de soldat : " + terrain.fourmiliere.getNombreRole()[1]);
+		writer.println("Nombre de sexué : " + terrain.fourmiliere.getNombreRole()[2]);
+		writer.println("________________________________________________________________");
 	}
 
 }
