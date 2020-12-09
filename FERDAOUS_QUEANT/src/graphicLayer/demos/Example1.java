@@ -37,7 +37,7 @@ public class Example1 {
 		w.open();
 		while (true) {
 			Point gap = new Point(x.nextInt(11), x.nextInt(11));
-			gap.translate(-5, -5);
+			gap.translate(1, -10);
 			gb.translate(gap);
 			GElement [] elements = gb.getRawContents();
 			for (int i = 0; i < elements.length; i++) {
