@@ -1,6 +1,6 @@
 Nombre de jour déroulé : 1
-Nombre d'individu : 0
-Nombre d'oeuf : 0.0
+Nombre d'individu : 2
+Nombre d'oeuf : 2.0
 Nombre de larve : 0.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
@@ -9,8 +9,8 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 2
-Nombre d'individu : 3
-Nombre d'oeuf : 3.0
+Nombre d'individu : 4
+Nombre d'oeuf : 4.0
 Nombre de larve : 0.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
@@ -19,6 +19,16 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 3
+Nombre d'individu : 4
+Nombre d'oeuf : 4.0
+Nombre de larve : 0.0
+Nombre de nymphe : 0.0
+Nombre d'adulte  : 0.0
+Nombre d'ouvrière : 0.0
+Nombre de soldat : 0.0
+Nombre de sexué : 0.0
+________________________________________________________________
+Nombre de jour déroulé : 4
 Nombre d'individu : 6
 Nombre d'oeuf : 6.0
 Nombre de larve : 0.0
@@ -28,20 +38,10 @@ Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
-Nombre de jour déroulé : 4
-Nombre d'individu : 9
-Nombre d'oeuf : 9.0
-Nombre de larve : 0.0
-Nombre de nymphe : 0.0
-Nombre d'adulte  : 0.0
-Nombre d'ouvrière : 0.0
-Nombre de soldat : 0.0
-Nombre de sexué : 0.0
-________________________________________________________________
 Nombre de jour déroulé : 5
-Nombre d'individu : 10
-Nombre d'oeuf : 10.0
-Nombre de larve : 0.0
+Nombre d'individu : 9
+Nombre d'oeuf : 7.0
+Nombre de larve : 2.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -50,8 +50,8 @@ Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 6
 Nombre d'individu : 12
-Nombre d'oeuf : 9.0
-Nombre de larve : 3.0
+Nombre d'oeuf : 8.0
+Nombre de larve : 4.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -59,9 +59,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 7
-Nombre d'individu : 12
-Nombre d'oeuf : 6.0
-Nombre de larve : 6.0
+Nombre d'individu : 13
+Nombre d'oeuf : 9.0
+Nombre de larve : 4.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -69,6 +69,16 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 8
+Nombre d'individu : 14
+Nombre d'oeuf : 8.0
+Nombre de larve : 6.0
+Nombre de nymphe : 0.0
+Nombre d'adulte  : 0.0
+Nombre d'ouvrière : 0.0
+Nombre de soldat : 0.0
+Nombre de sexué : 0.0
+________________________________________________________________
+Nombre de jour déroulé : 9
 Nombre d'individu : 14
 Nombre d'oeuf : 5.0
 Nombre de larve : 9.0
@@ -78,19 +88,9 @@ Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
-Nombre de jour déroulé : 9
-Nombre d'individu : 15
-Nombre d'oeuf : 5.0
-Nombre de larve : 10.0
-Nombre de nymphe : 0.0
-Nombre d'adulte  : 0.0
-Nombre d'ouvrière : 0.0
-Nombre de soldat : 0.0
-Nombre de sexué : 0.0
-________________________________________________________________
 Nombre de jour déroulé : 10
-Nombre d'individu : 18
-Nombre d'oeuf : 6.0
+Nombre d'individu : 16
+Nombre d'oeuf : 4.0
 Nombre de larve : 12.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
@@ -99,9 +99,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 11
-Nombre d'individu : 20
-Nombre d'oeuf : 8.0
-Nombre de larve : 12.0
+Nombre d'individu : 17
+Nombre d'oeuf : 4.0
+Nombre de larve : 13.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -109,8 +109,8 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 12
-Nombre d'individu : 23
-Nombre d'oeuf : 9.0
+Nombre d'individu : 17
+Nombre d'oeuf : 3.0
 Nombre de larve : 14.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
@@ -119,9 +119,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 13
-Nombre d'individu : 25
-Nombre d'oeuf : 10.0
-Nombre de larve : 15.0
+Nombre d'individu : 20
+Nombre d'oeuf : 6.0
+Nombre de larve : 14.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -129,9 +129,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 14
-Nombre d'individu : 27
-Nombre d'oeuf : 9.0
-Nombre de larve : 18.0
+Nombre d'individu : 21
+Nombre d'oeuf : 5.0
+Nombre de larve : 16.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -139,9 +139,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 15
-Nombre d'individu : 27
+Nombre d'individu : 24
 Nombre d'oeuf : 7.0
-Nombre de larve : 20.0
+Nombre de larve : 17.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -149,9 +149,9 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 16
-Nombre d'individu : 29
-Nombre d'oeuf : 6.0
-Nombre de larve : 23.0
+Nombre d'individu : 27
+Nombre d'oeuf : 10.0
+Nombre de larve : 17.0
 Nombre de nymphe : 0.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
@@ -159,933 +159,942 @@ Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 17
-Nombre d'individu : 30
-Nombre d'oeuf : 5.0
-Nombre de larve : 25.0
-Nombre de nymphe : 0.0
+Nombre d'individu : 28
+Nombre d'oeuf : 8.0
+Nombre de larve : 18.0
+Nombre de nymphe : 2.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 18
-Nombre d'individu : 31
-Nombre d'oeuf : 4.0
-Nombre de larve : 24.0
-Nombre de nymphe : 3.0
+Nombre d'individu : 28
+Nombre d'oeuf : 7.0
+Nombre de larve : 17.0
+Nombre de nymphe : 4.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 19
-Nombre d'individu : 32
-Nombre d'oeuf : 5.0
-Nombre de larve : 21.0
-Nombre de nymphe : 6.0
+Nombre d'individu : 28
+Nombre d'oeuf : 4.0
+Nombre de larve : 20.0
+Nombre de nymphe : 4.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 20
-Nombre d'individu : 32
-Nombre d'oeuf : 3.0
-Nombre de larve : 20.0
-Nombre de nymphe : 9.0
+Nombre d'individu : 31
+Nombre d'oeuf : 4.0
+Nombre de larve : 21.0
+Nombre de nymphe : 6.0
 Nombre d'adulte  : 0.0
 Nombre d'ouvrière : 0.0
 Nombre de soldat : 0.0
 Nombre de sexué : 0.0
 ________________________________________________________________
 Nombre de jour déroulé : 21
-Nombre d'individu : 33
-Nombre d'oeuf : 3.0
-Nombre de larve : 20.0
-Nombre de nymphe : 10.0
-Nombre d'adulte  : 0.0
-Nombre d'ouvrière : 0.0
-Nombre de soldat : 0.0
-Nombre de sexué : 0.0
-________________________________________________________________
-Nombre de jour déroulé : 22
-Nombre d'individu : 35
-Nombre d'oeuf : 4.0
+Nombre d'individu : 34
+Nombre d'oeuf : 6.0
 Nombre de larve : 19.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 3.0
-Nombre d'ouvrière : 2.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 2.0
+Nombre d'ouvrière : 1.0
 Nombre de soldat : 1.0
 Nombre de sexué : 0.0
 ________________________________________________________________
+Nombre de jour déroulé : 22
+Nombre d'individu : 34
+Nombre d'oeuf : 6.0
+Nombre de larve : 16.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 4.0
+Nombre d'ouvrière : 2.0
+Nombre de soldat : 1.0
+Nombre de sexué : 1.0
+________________________________________________________________
 Nombre de jour déroulé : 23
-Nombre d'individu : 37
+Nombre d'individu : 36
+Nombre d'oeuf : 8.0
+Nombre de larve : 15.0
+Nombre de nymphe : 9.0
+Nombre d'adulte  : 4.0
+Nombre d'ouvrière : 2.0
+Nombre de soldat : 1.0
+Nombre de sexué : 1.0
+________________________________________________________________
+Nombre de jour déroulé : 24
+Nombre d'individu : 36
 Nombre d'oeuf : 5.0
-Nombre de larve : 20.0
-Nombre de nymphe : 6.0
+Nombre de larve : 17.0
+Nombre de nymphe : 8.0
 Nombre d'adulte  : 6.0
 Nombre d'ouvrière : 3.0
 Nombre de soldat : 1.0
 Nombre de sexué : 2.0
 ________________________________________________________________
-Nombre de jour déroulé : 24
+Nombre de jour déroulé : 25
 Nombre d'individu : 39
-Nombre d'oeuf : 7.0
-Nombre de larve : 18.0
+Nombre d'oeuf : 5.0
+Nombre de larve : 20.0
 Nombre de nymphe : 5.0
 Nombre d'adulte  : 9.0
 Nombre d'ouvrière : 5.0
 Nombre de soldat : 2.0
 Nombre de sexué : 2.0
 ________________________________________________________________
-Nombre de jour déroulé : 25
-Nombre d'individu : 40
+Nombre de jour déroulé : 26
+Nombre d'individu : 41
 Nombre d'oeuf : 7.0
 Nombre de larve : 18.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 10.0
-Nombre d'ouvrière : 6.0
-Nombre de soldat : 2.0
-Nombre de sexué : 2.0
-________________________________________________________________
-Nombre de jour déroulé : 26
-Nombre d'individu : 42
-Nombre d'oeuf : 7.0
-Nombre de larve : 17.0
-Nombre de nymphe : 6.0
+Nombre de nymphe : 4.0
 Nombre d'adulte  : 12.0
 Nombre d'ouvrière : 7.0
 Nombre de soldat : 2.0
 Nombre de sexué : 3.0
 ________________________________________________________________
 Nombre de jour déroulé : 27
-Nombre d'individu : 44
-Nombre d'oeuf : 7.0
-Nombre de larve : 17.0
-Nombre de nymphe : 8.0
-Nombre d'adulte  : 12.0
-Nombre d'ouvrière : 7.0
+Nombre d'individu : 41
+Nombre d'oeuf : 5.0
+Nombre de larve : 19.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 13.0
+Nombre d'ouvrière : 8.0
 Nombre de soldat : 2.0
 Nombre de sexué : 3.0
 ________________________________________________________________
 Nombre de jour déroulé : 28
-Nombre d'individu : 46
-Nombre d'oeuf : 7.0
-Nombre de larve : 16.0
-Nombre de nymphe : 9.0
+Nombre d'individu : 44
+Nombre d'oeuf : 8.0
+Nombre de larve : 19.0
+Nombre de nymphe : 3.0
 Nombre d'adulte  : 14.0
 Nombre d'ouvrière : 8.0
 Nombre de soldat : 3.0
 Nombre de sexué : 3.0
 ________________________________________________________________
 Nombre de jour déroulé : 29
-Nombre d'individu : 48
-Nombre d'oeuf : 8.0
-Nombre de larve : 15.0
-Nombre de nymphe : 10.0
-Nombre d'adulte  : 15.0
-Nombre d'ouvrière : 9.0
+Nombre d'individu : 45
+Nombre d'oeuf : 6.0
+Nombre de larve : 19.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 14.0
+Nombre d'ouvrière : 8.0
 Nombre de soldat : 3.0
 Nombre de sexué : 3.0
 ________________________________________________________________
 Nombre de jour déroulé : 30
-Nombre d'individu : 50
-Nombre d'oeuf : 8.0
-Nombre de larve : 15.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 18.0
-Nombre d'ouvrière : 11.0
+Nombre d'individu : 48
+Nombre d'oeuf : 7.0
+Nombre de larve : 20.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 16.0
+Nombre d'ouvrière : 9.0
 Nombre de soldat : 3.0
 Nombre de sexué : 4.0
 ________________________________________________________________
 Nombre de jour déroulé : 31
-Nombre d'individu : 53
-Nombre d'oeuf : 9.0
+Nombre d'individu : 49
+Nombre d'oeuf : 8.0
 Nombre de larve : 17.0
 Nombre de nymphe : 7.0
+Nombre d'adulte  : 17.0
+Nombre d'ouvrière : 10.0
+Nombre de soldat : 3.0
+Nombre de sexué : 4.0
+________________________________________________________________
+Nombre de jour déroulé : 32
+Nombre d'individu : 51
+Nombre d'oeuf : 7.0
+Nombre de larve : 17.0
+Nombre de nymphe : 10.0
+Nombre d'adulte  : 17.0
+Nombre d'ouvrière : 10.0
+Nombre de soldat : 3.0
+Nombre de sexué : 4.0
+________________________________________________________________
+Nombre de jour déroulé : 33
+Nombre d'individu : 53
+Nombre d'oeuf : 8.0
+Nombre de larve : 17.0
+Nombre de nymphe : 8.0
 Nombre d'adulte  : 20.0
 Nombre d'ouvrière : 12.0
 Nombre de soldat : 4.0
 Nombre de sexué : 4.0
 ________________________________________________________________
-Nombre de jour déroulé : 32
-Nombre d'individu : 55
-Nombre d'oeuf : 9.0
-Nombre de larve : 17.0
-Nombre de nymphe : 6.0
-Nombre d'adulte  : 23.0
-Nombre d'ouvrière : 14.0
+Nombre de jour déroulé : 34
+Nombre d'individu : 54
+Nombre d'oeuf : 6.0
+Nombre de larve : 20.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 21.0
+Nombre d'ouvrière : 12.0
 Nombre de soldat : 4.0
 Nombre de sexué : 5.0
 ________________________________________________________________
-Nombre de jour déroulé : 33
-Nombre d'individu : 58
-Nombre d'oeuf : 10.0
-Nombre de larve : 18.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 25.0
-Nombre d'ouvrière : 15.0
+Nombre de jour déroulé : 35
+Nombre d'individu : 57
+Nombre d'oeuf : 8.0
+Nombre de larve : 21.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 24.0
+Nombre d'ouvrière : 14.0
 Nombre de soldat : 5.0
 Nombre de sexué : 5.0
 ________________________________________________________________
-Nombre de jour déroulé : 34
-Nombre d'individu : 58
-Nombre d'oeuf : 8.0
-Nombre de larve : 19.0
+Nombre de jour déroulé : 36
+Nombre d'individu : 60
+Nombre d'oeuf : 9.0
+Nombre de larve : 20.0
 Nombre de nymphe : 4.0
 Nombre d'adulte  : 27.0
 Nombre d'ouvrière : 16.0
 Nombre de soldat : 5.0
-Nombre de sexué : 6.0
-________________________________________________________________
-Nombre de jour déroulé : 35
-Nombre d'individu : 58
-Nombre d'oeuf : 5.0
-Nombre de larve : 21.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 27.0
-Nombre d'ouvrière : 16.0
-Nombre de soldat : 5.0
-Nombre de sexué : 6.0
-________________________________________________________________
-Nombre de jour déroulé : 36
-Nombre d'individu : 58
-Nombre d'oeuf : 3.0
-Nombre de larve : 23.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 29.0
-Nombre d'ouvrière : 17.0
-Nombre de soldat : 6.0
 Nombre de sexué : 6.0
 ________________________________________________________________
 Nombre de jour déroulé : 37
-Nombre d'individu : 60
-Nombre d'oeuf : 2.0
-Nombre de larve : 25.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 30.0
-Nombre d'ouvrière : 18.0
-Nombre de soldat : 6.0
+Nombre d'individu : 61
+Nombre d'oeuf : 8.0
+Nombre de larve : 19.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 28.0
+Nombre d'ouvrière : 17.0
+Nombre de soldat : 5.0
 Nombre de sexué : 6.0
 ________________________________________________________________
 Nombre de jour déroulé : 38
-Nombre d'individu : 61
-Nombre d'oeuf : 3.0
-Nombre de larve : 23.0
-Nombre de nymphe : 4.0
+Nombre d'individu : 64
+Nombre d'oeuf : 10.0
+Nombre de larve : 20.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 28.0
+Nombre d'ouvrière : 17.0
+Nombre de soldat : 5.0
+Nombre de sexué : 6.0
+________________________________________________________________
+Nombre de jour déroulé : 39
+Nombre d'individu : 67
+Nombre d'oeuf : 10.0
+Nombre de larve : 21.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 28.0
+Nombre d'ouvrière : 17.0
+Nombre de soldat : 5.0
+Nombre de sexué : 6.0
+________________________________________________________________
+Nombre de jour déroulé : 40
+Nombre d'individu : 70
+Nombre d'oeuf : 10.0
+Nombre de larve : 24.0
+Nombre de nymphe : 5.0
 Nombre d'adulte  : 31.0
 Nombre d'ouvrière : 18.0
 Nombre de soldat : 6.0
 Nombre de sexué : 7.0
 ________________________________________________________________
-Nombre de jour déroulé : 39
-Nombre d'individu : 63
-Nombre d'oeuf : 5.0
-Nombre de larve : 21.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 32.0
-Nombre d'ouvrière : 19.0
-Nombre de soldat : 6.0
-Nombre de sexué : 7.0
-________________________________________________________________
-Nombre de jour déroulé : 40
-Nombre d'individu : 63
-Nombre d'oeuf : 5.0
-Nombre de larve : 19.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 32.0
-Nombre d'ouvrière : 19.0
-Nombre de soldat : 6.0
-Nombre de sexué : 7.0
-________________________________________________________________
 Nombre de jour déroulé : 41
-Nombre d'individu : 63
-Nombre d'oeuf : 3.0
-Nombre de larve : 20.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 33.0
+Nombre d'individu : 72
+Nombre d'oeuf : 11.0
+Nombre de larve : 22.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 34.0
 Nombre d'ouvrière : 20.0
-Nombre de soldat : 6.0
+Nombre de soldat : 7.0
 Nombre de sexué : 7.0
 ________________________________________________________________
 Nombre de jour déroulé : 42
-Nombre d'individu : 64
-Nombre d'oeuf : 3.0
-Nombre de larve : 19.0
+Nombre d'individu : 72
+Nombre d'oeuf : 8.0
+Nombre de larve : 23.0
 Nombre de nymphe : 7.0
-Nombre d'adulte  : 35.0
-Nombre d'ouvrière : 21.0
+Nombre d'adulte  : 34.0
+Nombre d'ouvrière : 20.0
 Nombre de soldat : 7.0
 Nombre de sexué : 7.0
 ________________________________________________________________
 Nombre de jour déroulé : 43
-Nombre d'individu : 67
-Nombre d'oeuf : 4.0
-Nombre de larve : 19.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 37.0
-Nombre d'ouvrière : 22.0
+Nombre d'individu : 75
+Nombre d'oeuf : 8.0
+Nombre de larve : 26.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 36.0
+Nombre d'ouvrière : 21.0
 Nombre de soldat : 7.0
 Nombre de sexué : 8.0
 ________________________________________________________________
 Nombre de jour déroulé : 44
-Nombre d'individu : 67
-Nombre d'oeuf : 4.0
-Nombre de larve : 17.0
-Nombre de nymphe : 7.0
+Nombre d'individu : 78
+Nombre d'oeuf : 8.0
+Nombre de larve : 26.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 36.0
+Nombre d'ouvrière : 21.0
+Nombre de soldat : 7.0
+Nombre de sexué : 8.0
+________________________________________________________________
+Nombre de jour déroulé : 45
+Nombre d'individu : 80
+Nombre d'oeuf : 8.0
+Nombre de larve : 27.0
+Nombre de nymphe : 6.0
 Nombre d'adulte  : 39.0
 Nombre d'ouvrière : 23.0
 Nombre de soldat : 8.0
 Nombre de sexué : 8.0
 ________________________________________________________________
-Nombre de jour déroulé : 45
-Nombre d'individu : 69
-Nombre d'oeuf : 6.0
-Nombre de larve : 15.0
-Nombre de nymphe : 8.0
-Nombre d'adulte  : 40.0
-Nombre d'ouvrière : 24.0
-Nombre de soldat : 8.0
-Nombre de sexué : 8.0
-________________________________________________________________
 Nombre de jour déroulé : 46
-Nombre d'individu : 72
-Nombre d'oeuf : 8.0
-Nombre de larve : 14.0
-Nombre de nymphe : 8.0
-Nombre d'adulte  : 42.0
-Nombre d'ouvrière : 25.0
+Nombre d'individu : 82
+Nombre d'oeuf : 10.0
+Nombre de larve : 24.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 41.0
+Nombre d'ouvrière : 24.0
 Nombre de soldat : 8.0
 Nombre de sexué : 9.0
 ________________________________________________________________
 Nombre de jour déroulé : 47
-Nombre d'individu : 74
+Nombre d'individu : 82
 Nombre d'oeuf : 7.0
-Nombre de larve : 14.0
-Nombre de nymphe : 9.0
+Nombre de larve : 26.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 41.0
+Nombre d'ouvrière : 24.0
+Nombre de soldat : 8.0
+Nombre de sexué : 9.0
+________________________________________________________________
+Nombre de jour déroulé : 48
+Nombre d'individu : 85
+Nombre d'oeuf : 7.0
+Nombre de larve : 27.0
+Nombre de nymphe : 7.0
 Nombre d'adulte  : 44.0
 Nombre d'ouvrière : 26.0
 Nombre de soldat : 9.0
 Nombre de sexué : 9.0
 ________________________________________________________________
-Nombre de jour déroulé : 48
-Nombre d'individu : 74
-Nombre d'oeuf : 7.0
-Nombre de larve : 12.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 46.0
+Nombre de jour déroulé : 49
+Nombre d'individu : 86
+Nombre d'oeuf : 6.0
+Nombre de larve : 27.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 45.0
 Nombre d'ouvrière : 27.0
 Nombre de soldat : 9.0
-Nombre de sexué : 10.0
+Nombre de sexué : 9.0
 ________________________________________________________________
-Nombre de jour déroulé : 49
-Nombre d'individu : 76
-Nombre d'oeuf : 7.0
-Nombre de larve : 11.0
-Nombre de nymphe : 10.0
+Nombre de jour déroulé : 50
+Nombre d'individu : 86
+Nombre d'oeuf : 4.0
+Nombre de larve : 28.0
+Nombre de nymphe : 6.0
 Nombre d'adulte  : 48.0
 Nombre d'ouvrière : 29.0
 Nombre de soldat : 9.0
 Nombre de sexué : 10.0
 ________________________________________________________________
-Nombre de jour déroulé : 50
-Nombre d'individu : 77
-Nombre d'oeuf : 5.0
-Nombre de larve : 14.0
+Nombre de jour déroulé : 51
+Nombre d'individu : 89
+Nombre d'oeuf : 7.0
+Nombre de larve : 25.0
 Nombre de nymphe : 8.0
-Nombre d'adulte  : 50.0
-Nombre d'ouvrière : 30.0
+Nombre d'adulte  : 49.0
+Nombre d'ouvrière : 29.0
 Nombre de soldat : 10.0
 Nombre de sexué : 10.0
 ________________________________________________________________
-Nombre de jour déroulé : 51
-Nombre d'individu : 80
-Nombre d'oeuf : 6.0
-Nombre de larve : 16.0
-Nombre de nymphe : 5.0
+Nombre de jour déroulé : 52
+Nombre d'individu : 89
+Nombre d'oeuf : 4.0
+Nombre de larve : 25.0
+Nombre de nymphe : 9.0
+Nombre d'adulte  : 51.0
+Nombre d'ouvrière : 30.0
+Nombre de soldat : 10.0
+Nombre de sexué : 11.0
+________________________________________________________________
+Nombre de jour déroulé : 53
+Nombre d'individu : 89
+Nombre d'oeuf : 3.0
+Nombre de larve : 25.0
+Nombre de nymphe : 8.0
 Nombre d'adulte  : 53.0
 Nombre d'ouvrière : 32.0
 Nombre de soldat : 10.0
 Nombre de sexué : 11.0
 ________________________________________________________________
-Nombre de jour déroulé : 52
-Nombre d'individu : 81
-Nombre d'oeuf : 7.0
-Nombre de larve : 16.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 55.0
-Nombre d'ouvrière : 33.0
+Nombre de jour déroulé : 54
+Nombre d'individu : 92
+Nombre d'oeuf : 6.0
+Nombre de larve : 22.0
+Nombre de nymphe : 10.0
+Nombre d'adulte  : 54.0
+Nombre d'ouvrière : 32.0
 Nombre de soldat : 11.0
 Nombre de sexué : 11.0
 ________________________________________________________________
-Nombre de jour déroulé : 53
-Nombre d'individu : 83
-Nombre d'oeuf : 7.0
-Nombre de larve : 16.0
-Nombre de nymphe : 2.0
-Nombre d'adulte  : 58.0
-Nombre d'ouvrière : 35.0
-Nombre de soldat : 11.0
-Nombre de sexué : 12.0
-________________________________________________________________
-Nombre de jour déroulé : 54
-Nombre d'individu : 86
-Nombre d'oeuf : 9.0
-Nombre de larve : 16.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 58.0
-Nombre d'ouvrière : 35.0
-Nombre de soldat : 11.0
-Nombre de sexué : 12.0
-________________________________________________________________
 Nombre de jour déroulé : 55
-Nombre d'individu : 88
-Nombre d'oeuf : 8.0
-Nombre de larve : 17.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 58.0
-Nombre d'ouvrière : 35.0
+Nombre d'individu : 94
+Nombre d'oeuf : 5.0
+Nombre de larve : 22.0
+Nombre de nymphe : 10.0
+Nombre d'adulte  : 57.0
+Nombre d'ouvrière : 34.0
 Nombre de soldat : 11.0
 Nombre de sexué : 12.0
 ________________________________________________________________
 Nombre de jour déroulé : 56
-Nombre d'individu : 90
-Nombre d'oeuf : 9.0
-Nombre de larve : 18.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 58.0
-Nombre d'ouvrière : 35.0
-Nombre de soldat : 11.0
-Nombre de sexué : 12.0
-________________________________________________________________
-Nombre de jour déroulé : 57
-Nombre d'individu : 93
-Nombre d'oeuf : 10.0
-Nombre de larve : 20.0
-Nombre de nymphe : 3.0
+Nombre d'individu : 94
+Nombre d'oeuf : 5.0
+Nombre de larve : 19.0
+Nombre de nymphe : 10.0
 Nombre d'adulte  : 60.0
 Nombre d'ouvrière : 36.0
 Nombre de soldat : 12.0
 Nombre de sexué : 12.0
 ________________________________________________________________
-Nombre de jour déroulé : 58
-Nombre d'individu : 96
-Nombre d'oeuf : 10.0
-Nombre de larve : 22.0
-Nombre de nymphe : 3.0
+Nombre de jour déroulé : 57
+Nombre d'individu : 95
+Nombre d'oeuf : 6.0
+Nombre de larve : 17.0
+Nombre de nymphe : 11.0
 Nombre d'adulte  : 61.0
 Nombre d'ouvrière : 36.0
 Nombre de soldat : 12.0
 Nombre de sexué : 13.0
 ________________________________________________________________
-Nombre de jour déroulé : 59
-Nombre d'individu : 99
-Nombre d'oeuf : 11.0
-Nombre de larve : 21.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 63.0
-Nombre d'ouvrière : 38.0
-Nombre de soldat : 12.0
-Nombre de sexué : 13.0
-________________________________________________________________
-Nombre de jour déroulé : 60
-Nombre d'individu : 99
-Nombre d'oeuf : 9.0
-Nombre de larve : 23.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 63.0
-Nombre d'ouvrière : 38.0
-Nombre de soldat : 12.0
-Nombre de sexué : 13.0
-________________________________________________________________
-Nombre de jour déroulé : 61
-Nombre d'individu : 100
-Nombre d'oeuf : 7.0
-Nombre de larve : 24.0
-Nombre de nymphe : 6.0
-Nombre d'adulte  : 63.0
-Nombre d'ouvrière : 38.0
-Nombre de soldat : 12.0
-Nombre de sexué : 13.0
-________________________________________________________________
-Nombre de jour déroulé : 62
-Nombre d'individu : 103
-Nombre d'oeuf : 7.0
-Nombre de larve : 24.0
+Nombre de jour déroulé : 58
+Nombre d'individu : 98
+Nombre d'oeuf : 6.0
+Nombre de larve : 20.0
 Nombre de nymphe : 8.0
 Nombre d'adulte  : 64.0
 Nombre d'ouvrière : 38.0
 Nombre de soldat : 13.0
 Nombre de sexué : 13.0
 ________________________________________________________________
-Nombre de jour déroulé : 63
-Nombre d'individu : 103
+Nombre de jour déroulé : 59
+Nombre d'individu : 98
 Nombre d'oeuf : 4.0
-Nombre de larve : 25.0
-Nombre de nymphe : 7.0
+Nombre de larve : 19.0
+Nombre de nymphe : 8.0
 Nombre d'adulte  : 67.0
 Nombre d'ouvrière : 40.0
 Nombre de soldat : 13.0
 Nombre de sexué : 14.0
 ________________________________________________________________
-Nombre de jour déroulé : 64
-Nombre d'individu : 103
-Nombre d'oeuf : 4.0
-Nombre de larve : 25.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 67.0
-Nombre d'ouvrière : 40.0
-Nombre de soldat : 13.0
-Nombre de sexué : 14.0
-________________________________________________________________
-Nombre de jour déroulé : 65
-Nombre d'individu : 105
-Nombre d'oeuf : 5.0
-Nombre de larve : 24.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 69.0
-Nombre d'ouvrière : 41.0
+Nombre de jour déroulé : 60
+Nombre d'individu : 100
+Nombre d'oeuf : 6.0
+Nombre de larve : 16.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 70.0
+Nombre d'ouvrière : 42.0
 Nombre de soldat : 14.0
 Nombre de sexué : 14.0
 ________________________________________________________________
-Nombre de jour déroulé : 66
-Nombre d'individu : 105
-Nombre d'oeuf : 2.0
-Nombre de larve : 26.0
-Nombre de nymphe : 5.0
+Nombre de jour déroulé : 61
+Nombre d'individu : 101
+Nombre d'oeuf : 6.0
+Nombre de larve : 15.0
+Nombre de nymphe : 8.0
 Nombre d'adulte  : 72.0
 Nombre d'ouvrière : 43.0
 Nombre de soldat : 14.0
 Nombre de sexué : 15.0
 ________________________________________________________________
-Nombre de jour déroulé : 67
-Nombre d'individu : 106
-Nombre d'oeuf : 3.0
-Nombre de larve : 23.0
-Nombre de nymphe : 6.0
-Nombre d'adulte  : 74.0
-Nombre d'ouvrière : 44.0
-Nombre de soldat : 15.0
-Nombre de sexué : 15.0
-________________________________________________________________
-Nombre de jour déroulé : 68
-Nombre d'individu : 109
+Nombre de jour déroulé : 62
+Nombre d'individu : 104
 Nombre d'oeuf : 6.0
-Nombre de larve : 22.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 74.0
-Nombre d'ouvrière : 44.0
-Nombre de soldat : 15.0
+Nombre de larve : 16.0
+Nombre de nymphe : 10.0
+Nombre d'adulte  : 72.0
+Nombre d'ouvrière : 43.0
+Nombre de soldat : 14.0
 Nombre de sexué : 15.0
 ________________________________________________________________
-Nombre de jour déroulé : 69
-Nombre d'individu : 110
-Nombre d'oeuf : 5.0
-Nombre de larve : 22.0
+Nombre de jour déroulé : 63
+Nombre d'individu : 106
+Nombre d'oeuf : 8.0
+Nombre de larve : 16.0
 Nombre de nymphe : 7.0
-Nombre d'adulte  : 76.0
+Nombre d'adulte  : 75.0
 Nombre d'ouvrière : 45.0
 Nombre de soldat : 15.0
-Nombre de sexué : 16.0
+Nombre de sexué : 15.0
 ________________________________________________________________
-Nombre de jour déroulé : 70
-Nombre d'individu : 113
-Nombre d'oeuf : 8.0
-Nombre de larve : 19.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 77.0
-Nombre d'ouvrière : 46.0
+Nombre de jour déroulé : 64
+Nombre d'individu : 106
+Nombre d'oeuf : 6.0
+Nombre de larve : 15.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 78.0
+Nombre d'ouvrière : 47.0
 Nombre de soldat : 15.0
 Nombre de sexué : 16.0
 ________________________________________________________________
-Nombre de jour déroulé : 71
-Nombre d'individu : 115
-Nombre d'oeuf : 9.0
-Nombre de larve : 18.0
-Nombre de nymphe : 8.0
+Nombre de jour déroulé : 65
+Nombre d'individu : 107
+Nombre d'oeuf : 6.0
+Nombre de larve : 15.0
+Nombre de nymphe : 6.0
 Nombre d'adulte  : 80.0
 Nombre d'ouvrière : 48.0
 Nombre de soldat : 16.0
 Nombre de sexué : 16.0
 ________________________________________________________________
-Nombre de jour déroulé : 72
-Nombre d'individu : 115
+Nombre de jour déroulé : 66
+Nombre d'individu : 110
 Nombre d'oeuf : 6.0
-Nombre de larve : 19.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 81.0
-Nombre d'ouvrière : 48.0
+Nombre de larve : 18.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 82.0
+Nombre d'ouvrière : 49.0
 Nombre de soldat : 16.0
 Nombre de sexué : 17.0
 ________________________________________________________________
-Nombre de jour déroulé : 73
-Nombre d'individu : 118
-Nombre d'oeuf : 8.0
+Nombre de jour déroulé : 67
+Nombre d'individu : 113
+Nombre d'oeuf : 7.0
 Nombre de larve : 17.0
-Nombre de nymphe : 10.0
-Nombre d'adulte  : 83.0
-Nombre d'ouvrière : 50.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 82.0
+Nombre d'ouvrière : 49.0
 Nombre de soldat : 16.0
 Nombre de sexué : 17.0
 ________________________________________________________________
-Nombre de jour déroulé : 74
-Nombre d'individu : 118
-Nombre d'oeuf : 5.0
+Nombre de jour déroulé : 68
+Nombre d'individu : 113
+Nombre d'oeuf : 7.0
 Nombre de larve : 17.0
-Nombre de nymphe : 10.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 85.0
+Nombre d'ouvrière : 51.0
+Nombre de soldat : 17.0
+Nombre de sexué : 17.0
+________________________________________________________________
+Nombre de jour déroulé : 69
+Nombre d'individu : 113
+Nombre d'oeuf : 6.0
+Nombre de larve : 18.0
+Nombre de nymphe : 3.0
 Nombre d'adulte  : 86.0
 Nombre d'ouvrière : 51.0
 Nombre de soldat : 17.0
 Nombre de sexué : 18.0
 ________________________________________________________________
-Nombre de jour déroulé : 75
-Nombre d'individu : 118
-Nombre d'oeuf : 3.0
-Nombre de larve : 16.0
-Nombre de nymphe : 11.0
-Nombre d'adulte  : 88.0
-Nombre d'ouvrière : 53.0
+Nombre de jour déroulé : 70
+Nombre d'individu : 114
+Nombre d'oeuf : 4.0
+Nombre de larve : 18.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 86.0
+Nombre d'ouvrière : 51.0
 Nombre de soldat : 17.0
 Nombre de sexué : 18.0
 ________________________________________________________________
-Nombre de jour déroulé : 76
-Nombre d'individu : 119
+Nombre de jour déroulé : 71
+Nombre d'individu : 117
 Nombre d'oeuf : 4.0
-Nombre de larve : 16.0
-Nombre de nymphe : 9.0
-Nombre d'adulte  : 90.0
-Nombre d'ouvrière : 54.0
+Nombre de larve : 19.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 89.0
+Nombre d'ouvrière : 53.0
 Nombre de soldat : 18.0
 Nombre de sexué : 18.0
 ________________________________________________________________
-Nombre de jour déroulé : 77
+Nombre de jour déroulé : 72
+Nombre d'individu : 119
+Nombre d'oeuf : 6.0
+Nombre de larve : 19.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 89.0
+Nombre d'ouvrière : 53.0
+Nombre de soldat : 18.0
+Nombre de sexué : 18.0
+________________________________________________________________
+Nombre de jour déroulé : 73
 Nombre d'individu : 121
-Nombre d'oeuf : 3.0
+Nombre d'oeuf : 8.0
 Nombre de larve : 18.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 93.0
-Nombre d'ouvrière : 56.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 89.0
+Nombre d'ouvrière : 53.0
+Nombre de soldat : 18.0
+Nombre de sexué : 18.0
+________________________________________________________________
+Nombre de jour déroulé : 74
+Nombre d'individu : 124
+Nombre d'oeuf : 10.0
+Nombre de larve : 16.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 92.0
+Nombre d'ouvrière : 55.0
 Nombre de soldat : 18.0
 Nombre de sexué : 19.0
 ________________________________________________________________
-Nombre de jour déroulé : 78
-Nombre d'individu : 121
-Nombre d'oeuf : 3.0
-Nombre de larve : 15.0
-Nombre de nymphe : 7.0
-Nombre d'adulte  : 96.0
+Nombre de jour déroulé : 75
+Nombre d'individu : 124
+Nombre d'oeuf : 7.0
+Nombre de larve : 19.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 94.0
+Nombre d'ouvrière : 56.0
+Nombre de soldat : 19.0
+Nombre de sexué : 19.0
+________________________________________________________________
+Nombre de jour déroulé : 76
+Nombre d'individu : 126
+Nombre d'oeuf : 7.0
+Nombre de larve : 19.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 94.0
+Nombre d'ouvrière : 56.0
+Nombre de soldat : 19.0
+Nombre de sexué : 19.0
+________________________________________________________________
+Nombre de jour déroulé : 77
+Nombre d'individu : 128
+Nombre d'oeuf : 7.0
+Nombre de larve : 20.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 95.0
 Nombre d'ouvrière : 57.0
+Nombre de soldat : 19.0
+Nombre de sexué : 19.0
+________________________________________________________________
+Nombre de jour déroulé : 78
+Nombre d'individu : 130
+Nombre d'oeuf : 6.0
+Nombre de larve : 20.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 98.0
+Nombre d'ouvrière : 59.0
 Nombre de soldat : 19.0
 Nombre de sexué : 20.0
 ________________________________________________________________
 Nombre de jour déroulé : 79
-Nombre d'individu : 122
-Nombre d'oeuf : 4.0
-Nombre de larve : 15.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 99.0
+Nombre d'individu : 133
+Nombre d'oeuf : 9.0
+Nombre de larve : 18.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 98.0
 Nombre d'ouvrière : 59.0
-Nombre de soldat : 20.0
+Nombre de soldat : 19.0
 Nombre de sexué : 20.0
 ________________________________________________________________
 Nombre de jour déroulé : 80
-Nombre d'individu : 123
-Nombre d'oeuf : 4.0
-Nombre de larve : 16.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 99.0
-Nombre d'ouvrière : 59.0
-Nombre de soldat : 20.0
-Nombre de sexué : 20.0
-________________________________________________________________
-Nombre de jour déroulé : 81
-Nombre d'individu : 126
-Nombre d'oeuf : 5.0
-Nombre de larve : 16.0
-Nombre de nymphe : 5.0
+Nombre d'individu : 133
+Nombre d'oeuf : 7.0
+Nombre de larve : 20.0
+Nombre de nymphe : 6.0
 Nombre d'adulte  : 100.0
 Nombre d'ouvrière : 60.0
 Nombre de soldat : 20.0
 Nombre de sexué : 20.0
 ________________________________________________________________
-Nombre de jour déroulé : 82
-Nombre d'individu : 126
-Nombre d'oeuf : 5.0
-Nombre de larve : 16.0
-Nombre de nymphe : 2.0
-Nombre d'adulte  : 103.0
-Nombre d'ouvrière : 62.0
+Nombre de jour déroulé : 81
+Nombre d'individu : 134
+Nombre d'oeuf : 6.0
+Nombre de larve : 21.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 101.0
+Nombre d'ouvrière : 60.0
 Nombre de soldat : 20.0
+Nombre de sexué : 21.0
+________________________________________________________________
+Nombre de jour déroulé : 82
+Nombre d'individu : 134
+Nombre d'oeuf : 4.0
+Nombre de larve : 20.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 104.0
+Nombre d'ouvrière : 62.0
+Nombre de soldat : 21.0
 Nombre de sexué : 21.0
 ________________________________________________________________
 Nombre de jour déroulé : 83
-Nombre d'individu : 126
+Nombre d'individu : 137
 Nombre d'oeuf : 4.0
-Nombre de larve : 16.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 103.0
-Nombre d'ouvrière : 62.0
-Nombre de soldat : 20.0
-Nombre de sexué : 21.0
-________________________________________________________________
-Nombre de jour déroulé : 84
-Nombre d'individu : 127
-Nombre d'oeuf : 4.0
-Nombre de larve : 14.0
-Nombre de nymphe : 6.0
-Nombre d'adulte  : 103.0
-Nombre d'ouvrière : 62.0
-Nombre de soldat : 20.0
-Nombre de sexué : 21.0
-________________________________________________________________
-Nombre de jour déroulé : 85
-Nombre d'individu : 130
-Nombre d'oeuf : 4.0
-Nombre de larve : 16.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 105.0
-Nombre d'ouvrière : 63.0
-Nombre de soldat : 21.0
-Nombre de sexué : 21.0
-________________________________________________________________
-Nombre de jour déroulé : 86
-Nombre d'individu : 130
-Nombre d'oeuf : 4.0
-Nombre de larve : 13.0
-Nombre de nymphe : 8.0
-Nombre d'adulte  : 105.0
-Nombre d'ouvrière : 63.0
-Nombre de soldat : 21.0
-Nombre de sexué : 21.0
-________________________________________________________________
-Nombre de jour déroulé : 87
-Nombre d'individu : 131
-Nombre d'oeuf : 5.0
-Nombre de larve : 11.0
-Nombre de nymphe : 9.0
+Nombre de larve : 20.0
+Nombre de nymphe : 7.0
 Nombre d'adulte  : 106.0
 Nombre d'ouvrière : 63.0
 Nombre de soldat : 21.0
 Nombre de sexué : 22.0
 ________________________________________________________________
-Nombre de jour déroulé : 88
-Nombre d'individu : 132
+Nombre de jour déroulé : 84
+Nombre d'individu : 138
 Nombre d'oeuf : 5.0
-Nombre de larve : 12.0
-Nombre de nymphe : 6.0
-Nombre d'adulte  : 109.0
-Nombre d'ouvrière : 65.0
-Nombre de soldat : 22.0
+Nombre de larve : 20.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 106.0
+Nombre d'ouvrière : 63.0
+Nombre de soldat : 21.0
 Nombre de sexué : 22.0
 ________________________________________________________________
-Nombre de jour déroulé : 89
-Nombre d'individu : 134
-Nombre d'oeuf : 4.0
-Nombre de larve : 12.0
-Nombre de nymphe : 8.0
+Nombre de jour déroulé : 85
+Nombre d'individu : 141
+Nombre d'oeuf : 7.0
+Nombre de larve : 21.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 107.0
+Nombre d'ouvrière : 64.0
+Nombre de soldat : 21.0
+Nombre de sexué : 22.0
+________________________________________________________________
+Nombre de jour déroulé : 86
+Nombre d'individu : 143
+Nombre d'oeuf : 9.0
+Nombre de larve : 20.0
+Nombre de nymphe : 4.0
 Nombre d'adulte  : 110.0
 Nombre d'ouvrière : 66.0
 Nombre de soldat : 22.0
 Nombre de sexué : 22.0
 ________________________________________________________________
-Nombre de jour déroulé : 90
-Nombre d'individu : 134
-Nombre d'oeuf : 4.0
-Nombre de larve : 12.0
-Nombre de nymphe : 5.0
+Nombre de jour déroulé : 87
+Nombre d'individu : 144
+Nombre d'oeuf : 7.0
+Nombre de larve : 20.0
+Nombre de nymphe : 4.0
 Nombre d'adulte  : 113.0
 Nombre d'ouvrière : 68.0
 Nombre de soldat : 22.0
 Nombre de sexué : 23.0
 ________________________________________________________________
-Nombre de jour déroulé : 91
-Nombre d'individu : 134
-Nombre d'oeuf : 3.0
-Nombre de larve : 13.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 115.0
-Nombre d'ouvrière : 69.0
+Nombre de jour déroulé : 88
+Nombre d'individu : 144
+Nombre d'oeuf : 6.0
+Nombre de larve : 19.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 113.0
+Nombre d'ouvrière : 68.0
+Nombre de soldat : 22.0
+Nombre de sexué : 23.0
+________________________________________________________________
+Nombre de jour déroulé : 89
+Nombre d'individu : 146
+Nombre d'oeuf : 5.0
+Nombre de larve : 20.0
+Nombre de nymphe : 8.0
+Nombre d'adulte  : 113.0
+Nombre d'ouvrière : 68.0
+Nombre de soldat : 22.0
+Nombre de sexué : 23.0
+________________________________________________________________
+Nombre de jour déroulé : 90
+Nombre d'individu : 149
+Nombre d'oeuf : 6.0
+Nombre de larve : 19.0
+Nombre de nymphe : 10.0
+Nombre d'adulte  : 114.0
+Nombre d'ouvrière : 68.0
 Nombre de soldat : 23.0
 Nombre de sexué : 23.0
+________________________________________________________________
+Nombre de jour déroulé : 91
+Nombre d'individu : 149
+Nombre d'oeuf : 5.0
+Nombre de larve : 20.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 117.0
+Nombre d'ouvrière : 70.0
+Nombre de soldat : 23.0
+Nombre de sexué : 24.0
 ________________________________________________________________
 Nombre de jour déroulé : 92
-Nombre d'individu : 134
-Nombre d'oeuf : 2.0
-Nombre de larve : 13.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 115.0
-Nombre d'ouvrière : 69.0
-Nombre de soldat : 23.0
-Nombre de sexué : 23.0
-________________________________________________________________
-Nombre de jour déroulé : 93
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 13.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 118.0
-Nombre d'ouvrière : 71.0
-Nombre de soldat : 23.0
-Nombre de sexué : 24.0
-________________________________________________________________
-Nombre de jour déroulé : 94
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 13.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 118.0
-Nombre d'ouvrière : 71.0
-Nombre de soldat : 23.0
-Nombre de sexué : 24.0
-________________________________________________________________
-Nombre de jour déroulé : 95
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 12.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 118.0
-Nombre d'ouvrière : 71.0
-Nombre de soldat : 23.0
-Nombre de sexué : 24.0
-________________________________________________________________
-Nombre de jour déroulé : 96
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 11.0
-Nombre de nymphe : 4.0
+Nombre d'individu : 149
+Nombre d'oeuf : 5.0
+Nombre de larve : 18.0
+Nombre de nymphe : 7.0
 Nombre d'adulte  : 119.0
 Nombre d'ouvrière : 71.0
 Nombre de soldat : 24.0
 Nombre de sexué : 24.0
 ________________________________________________________________
-Nombre de jour déroulé : 97
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 8.0
-Nombre de nymphe : 5.0
+Nombre de jour déroulé : 93
+Nombre d'individu : 149
+Nombre d'oeuf : 3.0
+Nombre de larve : 18.0
+Nombre de nymphe : 7.0
 Nombre d'adulte  : 121.0
 Nombre d'ouvrière : 72.0
 Nombre de soldat : 24.0
 Nombre de sexué : 25.0
+________________________________________________________________
+Nombre de jour déroulé : 94
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 19.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 124.0
+Nombre d'ouvrière : 74.0
+Nombre de soldat : 25.0
+Nombre de sexué : 25.0
+________________________________________________________________
+Nombre de jour déroulé : 95
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 16.0
+Nombre de nymphe : 9.0
+Nombre d'adulte  : 124.0
+Nombre d'ouvrière : 74.0
+Nombre de soldat : 25.0
+Nombre de sexué : 25.0
+________________________________________________________________
+Nombre de jour déroulé : 96
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 16.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 126.0
+Nombre d'ouvrière : 75.0
+Nombre de soldat : 25.0
+Nombre de sexué : 26.0
+________________________________________________________________
+Nombre de jour déroulé : 97
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 15.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 128.0
+Nombre d'ouvrière : 77.0
+Nombre de soldat : 25.0
+Nombre de sexué : 26.0
 ________________________________________________________________
 Nombre de jour déroulé : 98
-Nombre d'individu : 134
+Nombre d'individu : 149
 Nombre d'oeuf : 0.0
-Nombre de larve : 8.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 121.0
-Nombre d'ouvrière : 72.0
-Nombre de soldat : 24.0
-Nombre de sexué : 25.0
+Nombre de larve : 15.0
+Nombre de nymphe : 4.0
+Nombre d'adulte  : 130.0
+Nombre d'ouvrière : 78.0
+Nombre de soldat : 26.0
+Nombre de sexué : 26.0
 ________________________________________________________________
 Nombre de jour déroulé : 99
-Nombre d'individu : 134
+Nombre d'individu : 149
 Nombre d'oeuf : 0.0
-Nombre de larve : 8.0
+Nombre de larve : 12.0
 Nombre de nymphe : 4.0
-Nombre d'adulte  : 122.0
-Nombre d'ouvrière : 73.0
-Nombre de soldat : 24.0
-Nombre de sexué : 25.0
+Nombre d'adulte  : 133.0
+Nombre d'ouvrière : 80.0
+Nombre de soldat : 26.0
+Nombre de sexué : 27.0
 ________________________________________________________________
 Nombre de jour déroulé : 100
-Nombre d'individu : 134
+Nombre d'individu : 149
 Nombre d'oeuf : 0.0
-Nombre de larve : 7.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 123.0
-Nombre d'ouvrière : 74.0
-Nombre de soldat : 24.0
-Nombre de sexué : 25.0
+Nombre de larve : 11.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 133.0
+Nombre d'ouvrière : 80.0
+Nombre de soldat : 26.0
+Nombre de sexué : 27.0
 ________________________________________________________________
 Nombre de jour déroulé : 101
-Nombre d'individu : 134
+Nombre d'individu : 149
 Nombre d'oeuf : 0.0
-Nombre de larve : 4.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 126.0
-Nombre d'ouvrière : 75.0
-Nombre de soldat : 25.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 102
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 4.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 126.0
-Nombre d'ouvrière : 75.0
-Nombre de soldat : 25.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 103
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 3.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 126.0
-Nombre d'ouvrière : 75.0
-Nombre de soldat : 25.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 104
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 2.0
-Nombre de nymphe : 5.0
-Nombre d'adulte  : 127.0
-Nombre d'ouvrière : 76.0
-Nombre de soldat : 25.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 105
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 0.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 130.0
-Nombre d'ouvrière : 78.0
-Nombre de soldat : 26.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 106
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 0.0
-Nombre de nymphe : 4.0
-Nombre d'adulte  : 130.0
-Nombre d'ouvrière : 78.0
-Nombre de soldat : 26.0
-Nombre de sexué : 26.0
-________________________________________________________________
-Nombre de jour déroulé : 107
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 0.0
-Nombre de nymphe : 3.0
-Nombre d'adulte  : 131.0
-Nombre d'ouvrière : 78.0
-Nombre de soldat : 26.0
-Nombre de sexué : 27.0
-________________________________________________________________
-Nombre de jour déroulé : 108
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 0.0
-Nombre de nymphe : 2.0
-Nombre d'adulte  : 132.0
-Nombre d'ouvrière : 79.0
-Nombre de soldat : 26.0
-Nombre de sexué : 27.0
-________________________________________________________________
-Nombre de jour déroulé : 109
-Nombre d'individu : 134
-Nombre d'oeuf : 0.0
-Nombre de larve : 0.0
-Nombre de nymphe : 0.0
+Nombre de larve : 8.0
+Nombre de nymphe : 7.0
 Nombre d'adulte  : 134.0
 Nombre d'ouvrière : 80.0
 Nombre de soldat : 27.0
 Nombre de sexué : 27.0
 ________________________________________________________________
-_
+Nombre de jour déroulé : 102
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 6.0
+Nombre de nymphe : 9.0
+Nombre d'adulte  : 134.0
+Nombre d'ouvrière : 80.0
+Nombre de soldat : 27.0
+Nombre de sexué : 27.0
+________________________________________________________________
+Nombre de jour déroulé : 103
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 5.0
+Nombre de nymphe : 7.0
+Nombre d'adulte  : 137.0
+Nombre d'ouvrière : 82.0
+Nombre de soldat : 27.0
+Nombre de sexué : 28.0
+________________________________________________________________
+Nombre de jour déroulé : 104
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 5.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 138.0
+Nombre d'ouvrière : 83.0
+Nombre de soldat : 27.0
+Nombre de sexué : 28.0
+________________________________________________________________
+Nombre de jour déroulé : 105
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 3.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 141.0
+Nombre d'ouvrière : 84.0
+Nombre de soldat : 28.0
+Nombre de sexué : 29.0
+________________________________________________________________
+Nombre de jour déroulé : 106
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 0.0
+Nombre de nymphe : 6.0
+Nombre d'adulte  : 143.0
+Nombre d'ouvrière : 86.0
+Nombre de soldat : 28.0
+Nombre de sexué : 29.0
+________________________________________________________________
+Nombre de jour déroulé : 107
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 0.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 144.0
+Nombre d'ouvrière : 86.0
+Nombre de soldat : 29.0
+Nombre de sexué : 29.0
+________________________________________________________________
+Nombre de jour déroulé : 108
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 0.0
+Nombre de nymphe : 5.0
+Nombre d'adulte  : 144.0
+Nombre d'ouvrière : 86.0
+Nombre de soldat : 29.0
+Nombre de sexué : 29.0
+________________________________________________________________
+Nombre de jour déroulé : 109
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 0.0
+Nombre de nymphe : 3.0
+Nombre d'adulte  : 146.0
+Nombre d'ouvrière : 87.0
+Nombre de soldat : 29.0
+Nombre de sexué : 30.0
+________________________________________________________________
+Nombre de jour déroulé : 110
+Nombre d'individu : 149
+Nombre d'oeuf : 0.0
+Nombre de larve : 0.0
+Nombre de nymphe : 0.0
+Nombre d'adulte  : 149.0
+Nombre d'ouvrière : 89.0
+Nombre de soldat : 30.0
+Nombre de sexué : 30.0
+________________________________________________________________

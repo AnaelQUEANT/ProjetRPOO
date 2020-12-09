@@ -1,16 +1,18 @@
 package etat;
 
+// Classe "Oeuf" qui hérite de "Etat" 
 public class Oeuf extends Etat {
 	public Oeuf() {
 		super();
 	}
-	
+
 	@Override
 	public Etat next() {
-		if(val == 3) {
+		// si l'oeuf est égal a 3 elle devient larve
+		if (nbJourVecu >= 3) {
 			return new Larve();
 		}
-		val++;
+		nbJourVecu++;
 		return this;
 	}
 }

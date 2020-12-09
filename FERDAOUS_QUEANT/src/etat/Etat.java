@@ -1,9 +1,12 @@
 package etat;
+// Classe abstraite "Etat"
 
 public abstract class Etat {
-	protected int val;
+	protected int nbJourVecu; // Nombre de jour vécu dans l'état actuel
+	// Constructeur, initialisation du nombre de jour vécu à 0
 	public Etat() {
-		val = 0;
+		nbJourVecu = 0;
 	}
+	// Méthode abstraite ayant pour objectif de faire évoluer l'état
 	public abstract Etat next();
 }

@@ -1,5 +1,5 @@
 package etat;
-
+ // Classe "Nymphe" hérite de "Etat" 
 public class Nymphe extends Etat {
 	public Nymphe() {
 		super();
@@ -7,10 +7,11 @@ public class Nymphe extends Etat {
 	
 	@Override
 	public Etat next() {
-		if(val == 3) {
+		// si la Nymphe est supérieur a 3 elle devient adulte 
+		if(nbJourVecu >= 3) {
 			return new Adulte();
 		}
-		val++;
+		nbJourVecu++;
 		return this;
 	}
 }
