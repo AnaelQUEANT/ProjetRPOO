@@ -11,9 +11,10 @@ public class Simulateur {
 	public static void main(String args[])
 			throws InterruptedException, FileNotFoundException, UnsupportedEncodingException {
 		terrain = new Terrain();
-		writer = new PrintWriter("fichierLog.txt", "UTF-8");
+		writer = new PrintWriter("fichierLog_FERDAOUS_QUEANT.txt", "UTF-8");
 		mainLoop();
 		writer.close();
+		AffichageGraphique.affichageGraph((int) terrain.fourmiliere.getNombreRole()[0]);
 	}
 
 	static void mainLoop() throws InterruptedException {
@@ -24,6 +25,7 @@ public class Simulateur {
 			fichierLog(nbJour);
 			Thread.sleep(100);
 		}
+		
 	}
 
 	static void fichierLog(int nbJour) {

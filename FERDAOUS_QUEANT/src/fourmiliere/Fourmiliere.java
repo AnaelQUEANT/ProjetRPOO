@@ -99,8 +99,8 @@ public class Fourmiliere {
 	}
 
 	public void ponte(int nbJour) {
-		if (nbJour < 92) {
-			int j = 0 + (int) (Math.random() * ((5 - 0) + 1));
+		if (nbJour < 90) {
+			int j = 0 + (int) (Math.random() * ((3 - 0) + 1));
 			for (int i = 0; i < j; i++) {
 				fourmis.add(new Fourmi());
 			}
