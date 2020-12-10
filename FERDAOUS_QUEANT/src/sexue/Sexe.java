@@ -1,15 +1,13 @@
-package role;
+package sexue;
 
 import atrier.Bilan;
 
-// class Role 
-public abstract class Role {
-  public Role() {
-    
+public abstract class Sexe {
+  
+  public Sexe() {
   }
   
   public abstract double[] getVitalite();
 
   public abstract void bilan(Bilan leBilan);
-
 }
