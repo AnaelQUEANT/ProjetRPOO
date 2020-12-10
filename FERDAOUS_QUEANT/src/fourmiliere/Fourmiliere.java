@@ -8,6 +8,7 @@ import etat.Nymphe;
 import etat.Oeuf;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 import role.Ouvriere;
 import role.Role;
 import role.Sexue;
@@ -155,8 +156,8 @@ public class Fourmiliere {
    */
   public void ponte() {
     if (nbJourPonte < 50) {
-      int j = 0 + (int) (Math.random() * ((3 - 0) + 1));
-      for (int i = 0; i < j; i++) {
+      int randomNum = ThreadLocalRandom.current().nextInt(1, 3 + 1);
+      for (int i = 0; i < randomNum; i++) {
         fourmis.add(new Fourmi());
       }
       nbJourPonte++;
@@ -173,5 +174,9 @@ public class Fourmiliere {
     for (Fourmi laFourmi : fourmis) {
       laFourmi.bilan(leBilan);
     }
+  }
+  
+  public List<Fourmi> getListeFourmis() {
+    return this.fourmis;
   }
 }

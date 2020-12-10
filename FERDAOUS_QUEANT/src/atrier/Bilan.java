@@ -73,4 +73,12 @@ public class Bilan {
     log.close();
   }
 
+  public PrintWriter getLog() {
+    return log;
+  }
+
+  public Map<String, Integer> getData() {
+    return this.donnee;
+  }
+
 }

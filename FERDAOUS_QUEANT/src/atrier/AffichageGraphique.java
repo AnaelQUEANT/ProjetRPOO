@@ -110,11 +110,11 @@ public class AffichageGraphique {
       throws InterruptedException {
     while (true) {
       for (GOval laFourmi : lesFourmis) {
-        mouvementElem(laFourmi, 0, 740, 5, 365);
+        mouvementElem(laFourmi, 7, 730, 7, 360);
       }
       for (GOval laProie : lesProies) {
         if (laProie != null) {
-          mouvementElem(laProie, 0, 980, 5, 480);
+          mouvementElem(laProie, 7, 980, 11, 475);
         }
       }
       for (GOval elemSuppr : collision(lesFourmis, lesProies)) {
@@ -140,16 +140,16 @@ public class AffichageGraphique {
    */
   private static void mouvementElem(GOval elem, int minX, int maxX, int minY,
       int maxY) {
-    int x;
-    int y;
-    y = aleatoire(-5, 5);
-    x = aleatoire(-5, 5);
-
-    if (elem.getX() - x > minX && elem.getX() + x < maxX) {
-      elem.setX(elem.getX() + x);
-    }
-    if (elem.getY() - y > minY && elem.getY() + y < maxY) {
-      elem.setY(elem.getY() + y);
+    int x = aleatoire(1, 2);
+    int val = aleatoire(-5, 5);
+    if (x == 1) {
+      if (elem.getX() + val < maxX && elem.getX() + val > minX) {
+        elem.setX(elem.getX() + val);
+      }
+    } else if (x == 2) {
+      if (elem.getY() + val < maxY && elem.getY() + val > minY) {
+        elem.setY(elem.getY() - val);
+      }
     }
     elem.repaint();
   }
@@ -183,13 +183,33 @@ public class AffichageGraphique {
     for (GOval fourmi : fourmis) {
       for (GOval proie : proies) {
         if (proie != null && !proieASupprimer.contains(proie)) {
-          if (fourmi.getX() == proie.getX() && fourmi.getY() == proie.getY()) {
+          if (comparerPosition(fourmi, proie)) {
             proieASupprimer.add(proie);
           }
         }
       }
     }
     return proieASupprimer;
+  }
+
+  /**
+   * Compare les positions de la proie et de la fourmi (Non fonctionel
+   * actuellement).
+   * 
+   * @param fourmi
+   *          le point de la fourmi
+   * @param proie
+   *          le point de la proie
+   * @return vrai si il se touche, faux sinon
+   */
+  private static boolean comparerPosition(GOval fourmi, GOval proie) {
+    int valXProie = proie.getX() + 100;
+    int valYProie = proie.getY() + 75;
+    if ((fourmi.getX() < valXProie + 15 && fourmi.getX() > valXProie - 15)
+        && (fourmi.getY() < valYProie + 15 && fourmi.getY() > valYProie - 15)) {
+      return true;
+    }
+    return false;
   }
 
 }
