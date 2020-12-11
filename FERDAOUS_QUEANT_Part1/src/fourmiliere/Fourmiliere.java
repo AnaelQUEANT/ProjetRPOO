@@ -22,6 +22,7 @@ public class Fourmiliere {
 
   public List<Fourmi> fourmis; // Liste de fourmis lié à la fourmiliere
   private int nbJourPonte;
+  private int nbJourMaxPonte = 50;
 
   // la Fourmiliere est une facade de gestion de la liste de fourmis
   public Fourmiliere() {
@@ -157,7 +158,7 @@ public class Fourmiliere {
    * Ajoute des oeufs à la liste de fourmis.
    */
   public void ponte() {
-    if (nbJourPonte < 50) {
+    if (nbJourPonte < nbJourMaxPonte) {
       int randomNum = ThreadLocalRandom.current().nextInt(1, 3 + 1);
       for (int i = 0; i < randomNum; i++) {
         fourmis.add(new Fourmi());
