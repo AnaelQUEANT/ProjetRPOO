@@ -42,7 +42,7 @@ public class Simulateur {
       nbJour++;
       terrain.bilan(leBilan);
       leBilan.redigerDonneeAleatoire(nbJour);
-      Thread.sleep(10);
+      Thread.sleep(100);
     }
     leBilan.fermerFichier();
   }

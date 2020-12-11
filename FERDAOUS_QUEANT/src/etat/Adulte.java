@@ -1,6 +1,7 @@
 package etat;
 
 import atrier.Bilan;
+import role.EnAttente;
 import role.Role;
 
 // Classe "Adulte" qui hérite de "Etat"
@@ -10,6 +11,7 @@ public class Adulte extends Etat {
   
   public Adulte() {
     super();
+    leRole = new EnAttente();
   }
 
   /**
@@ -32,7 +34,7 @@ public class Adulte extends Etat {
    *          le rôle à assigner pour la fourmi
    */
   public void setFirstRole(Role newRole) {
-    if (leRole == null) {
+    if (leRole.getClass() == EnAttente.class) {
       leRole = newRole;
     }
   }

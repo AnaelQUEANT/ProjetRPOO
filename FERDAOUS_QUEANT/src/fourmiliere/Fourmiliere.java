@@ -9,6 +9,7 @@ import etat.Oeuf;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
+import role.EnAttente;
 import role.Ouvriere;
 import role.Role;
 import role.Sexue;
@@ -34,7 +35,7 @@ public class Fourmiliere {
     for (Fourmi laFourmi : fourmis) {
       laFourmi.step();
       if (laFourmi.etat.getClass().equals(Adulte.class)
-          && ((Adulte) laFourmi.etat).getRole() == null) {
+          && ((Adulte) laFourmi.etat).getRole().getClass().equals(EnAttente.class)) {
         ((Adulte) laFourmi.etat).setFirstRole(nouveauRole());
       }
     }
@@ -59,7 +60,7 @@ public class Fourmiliere {
         nymphe++;
       }
     }
-    double[] nbRole = {oeuf, larve, nymphe};
+    double[] nbRole = { oeuf, larve, nymphe };
     return nbRole;
   }
 
@@ -77,7 +78,7 @@ public class Fourmiliere {
     for (Fourmi laFourmi : fourmis) {
       Etat etatFourmi = laFourmi.etat;
       if (etatFourmi.getClass().equals(Adulte.class)
-          && ((Adulte) laFourmi.etat).getRole() != null) {
+          && !((Adulte) laFourmi.etat).getRole().getClass().equals(EnAttente.class)) {
         Adulte adulteFourmi = (Adulte) etatFourmi;
         if (adulteFourmi.getRole().getClass().equals(Ouvriere.class)) {
           ouvriere++;
@@ -94,7 +95,7 @@ public class Fourmiliere {
         }
       }
     }
-    double[] nbRole = {ouvriere, soldat, sexue, male, femelle};
+    double[] nbRole = { ouvriere, soldat, sexue, male, femelle };
     return nbRole;
   }
 
@@ -119,14 +120,14 @@ public class Fourmiliere {
     double nbFourmiRole = (nbRole[0] + nbRole[1] + nbRole[2]);
     double nbFourmiSexue = (nbRole[3] + nbRole[4]);
     if (nbFourmiRole == 0) {
-      double[] pourcentage = {0, 0, 0, 0, 0};
+      double[] pourcentage = { 0, 0, 0, 0, 0 };
       return pourcentage;
     } else {
-      double[] pourcentage = {(double) (nbRole[0] / nbFourmiRole) * 100,
+      double[] pourcentage = { 
+          (double) (nbRole[0] / nbFourmiRole) * 100, 
           (double) (nbRole[1] / nbFourmiRole) * 100,
-          (double) (nbRole[2] / nbFourmiRole) * 100,
-          (double) (nbRole[3] / nbFourmiSexue) * 100,
-          (double) (nbRole[4] / nbFourmiSexue) * 100};
+          (double) (nbRole[2] / nbFourmiRole) * 100, (double) (nbRole[3] / nbFourmiSexue) * 100,
+          (double) (nbRole[4] / nbFourmiSexue) * 100 };
       return pourcentage;
     }
   }
@@ -167,15 +168,14 @@ public class Fourmiliere {
   /**
    * Met a jour le bilan avec l'ensemble des informations des fourmis.
    * 
-   * @param leBilan
-   *          Le bilan à mettre a jour
+   * @param leBilan Le bilan à mettre a jour
    */
   public void bilan(Bilan leBilan) {
     for (Fourmi laFourmi : fourmis) {
       laFourmi.bilan(leBilan);
     }
   }
-  
+
   public List<Fourmi> getListeFourmis() {
     return this.fourmis;
   }

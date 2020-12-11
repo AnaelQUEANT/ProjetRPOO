@@ -9,6 +9,8 @@ import etat.Oeuf;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
+
+import role.EnAttente;
 import role.Ouvriere;
 import role.Role;
 import role.Sexue;
@@ -34,7 +36,7 @@ public class Fourmiliere {
     for (Fourmi laFourmi : fourmis) {
       laFourmi.step();
       if (laFourmi.etat.getClass().equals(Adulte.class)
-          && ((Adulte) laFourmi.etat).getRole() == null) {
+          && ((Adulte)laFourmi.etat).getRole().getClass().equals(EnAttente.class)) {
         ((Adulte) laFourmi.etat).setFirstRole(nouveauRole());
       }
     }
@@ -77,7 +79,7 @@ public class Fourmiliere {
     for (Fourmi laFourmi : fourmis) {
       Etat etatFourmi = laFourmi.etat;
       if (etatFourmi.getClass().equals(Adulte.class)
-          && ((Adulte) laFourmi.etat).getRole() != null) {
+          && !((Adulte) laFourmi.etat).getRole().getClass().equals(EnAttente.class)) {
         Adulte adulteFourmi = (Adulte) etatFourmi;
         if (adulteFourmi.getRole().getClass().equals(Ouvriere.class)) {
           ouvriere++;
